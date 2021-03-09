@@ -3,6 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sahil210695.github.io/project/convolution-evolution/</loc>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sahil210695.github.io/tag/deep-learning/</loc>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sahil210695.github.io/project/</loc>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sahil210695.github.io/</loc>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sahil210695.github.io/tags/</loc>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sahil210695.github.io/tag/machine-learning/</loc>
+    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sahil210695.github.io/project/tf-deploy/</loc>
+    <lastmod>2019-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sahil210695.github.io/project/gradient-descent/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sahil210695.github.io/project/tf-fundamentals/</loc>
+    <lastmod>2018-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sahil210695.github.io/project/ml-sklearn/</loc>
+    <lastmod>2018-01-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sahil210695.github.io/tag/python/</loc>
+    <lastmod>2018-01-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sahil210695.github.io/authors/</loc>
   </url>
   
@@ -11,23 +66,11 @@
   </url>
   
   <url>
-    <loc>https://sahil210695.github.io/post/</loc>
-  </url>
-  
-  <url>
     <loc>https://sahil210695.github.io/publication_types/</loc>
   </url>
   
   <url>
-    <loc>https://sahil210695.github.io/</loc>
-  </url>
-  
-  <url>
     <loc>https://sahil210695.github.io/author/sahil-kumar/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sahil210695.github.io/tags/</loc>
   </url>
   
 </urlset>
